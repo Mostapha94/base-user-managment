@@ -1,6 +1,4 @@
-Base initiation for the main crud opertions can fit with any project 
-
-Structure : 
+Base initiation for the main crud opertions that can fit with any project with the below structure
 
 1 - Routes
 
